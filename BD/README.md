@@ -2,4 +2,6 @@
 
 ## DER
 
-![DER](der.png)
+<p align="center">
+  <img src="der.png" alt="DER" width="600"/>
+</p>
