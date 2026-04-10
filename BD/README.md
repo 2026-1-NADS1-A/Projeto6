@@ -11,8 +11,8 @@
 - Pacote define Jogo
 - Escola possui IP_Autorizado
 
-## DER
-![DER](PI - BANCO DE DADOS.png)
+## PI - BANCO DE DADOS.
+![PI - BANCO DE DADOS.](PI - BANCO DE DADOS.png)
 ## Banco de Dados
 
-[Acessar DER](./BD/README.md)
+[Acessar PI - BANCO DE DADOS.](./BD/README.md)
