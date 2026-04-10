@@ -8,5 +8,5 @@
 * Rafaela Carvalho Barcos Mello
 
 ## Banco de Dados
-O Diagrama Entidade-Relacionamento (DER) pode ser acessado abaixo:
-➡️ [Acessar DER](./BD/README.md)
+O Diagrama Entidade-Relacionamento (DER):
+➡️ [Vizualiar DER](./BD/README.md)
