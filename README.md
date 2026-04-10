@@ -12,4 +12,13 @@ O Diagrama Entidade-Relacionamento (DER):<br>
 [Vizualiar DER](./BD/README.md)
 ## Redes de Computadores
 Simulação de Verificação de IP (C#):<br>
- [Modelagem e Arquitetura](./MODELAGEM%20E%20ARQUITETURA.pdf)
+[Vizualizar Simulação](./MODELAGEM%20E%20ARQUITETURA.pdf)
+## Matemática Discreta
+Usando Lógica Proposicional:<br>
+[Vizualizar Documento](./MODELAGEM%20E%20ARQUITETURA.pdf)
+## Algorítmo e Lógica de Programação
+Aplicação de Estruturas:<br>
+[Vizualizar Documento](./MODELAGEM%20E%20ARQUITETURA.pdf)
+## Modelagemde Software e Arquitetura de Sistemas
+Aplicação de Estruturas:<br>
+[Vizualizar Documento](./MODELAGEM%20E%20ARQUITETURA.pdf)
