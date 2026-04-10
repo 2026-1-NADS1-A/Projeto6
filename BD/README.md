@@ -12,4 +12,7 @@
 - Escola possui IP_Autorizado
 
 ## DER
-![DER](https://drive.google.com/file/d/1IGyZhpDwVtASieyhjkQf5LyBV73mPo2n/view?usp=sharing)
+![DER](PI - BANCO DE DADOS.png)
+## Banco de Dados
+
+[Acessar DER](./BD/README.md)
