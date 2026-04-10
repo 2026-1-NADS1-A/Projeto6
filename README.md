@@ -12,10 +12,10 @@ O Diagrama Entidade-Relacionamento (DER):<br>
 [Visualiar DER](./BD/README.md)
 ## Redes de Computadores
 Simulação de Verificação de IP (C#):<br>
-[Visualizar Simulação](./MODELAGEM%20E%20ARQUITETURA.pdf)
+[Visualizar Simulação](colocar link)
 ## Matemática Discreta
 Usando Lógica Proposicional:<br>
-[Visualizar Documento](./MODELAGEM%20E%20ARQUITETURA.pdf)
+[Visualizar Documento](Regras%20em%20Logicas.pdf)
 ## Algorítmo e Lógica de Programação
 Aplicação de Estruturas:<br>
 [Visualizar PseudoCódigos](./Algoritmos%20e%20Lógica%20de%20Programação/Logica_Programacao.pdf)
