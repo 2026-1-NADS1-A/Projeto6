@@ -18,7 +18,7 @@ Usando Lógica Proposicional:<br>
 [Vizualizar Documento](./MODELAGEM%20E%20ARQUITETURA.pdf)
 ## Algorítmo e Lógica de Programação
 Aplicação de Estruturas:<br>
-[Vizualizar Documento](./MODELAGEM%20E%20ARQUITETURA.pdf)
+[Vizualizar Documento](Logica_Programacao.pdf)
 ## Modelagemde Software e Arquitetura de Sistemas
 Aplicação de Estruturas:<br>
 [Vizualizar Documento](./MODELAGEM%20E%20ARQUITETURA.pdf)
