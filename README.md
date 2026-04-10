@@ -10,3 +10,6 @@
 ## Banco de Dados
 O Diagrama Entidade-Relacionamento (DER):<br>
 [Vizualiar DER](./BD/README.md)
+## Redes de Computadores
+Simulação de Verificação de IP (C#):<br>
+[Vizualiar Simulação](./BD/README.md)
