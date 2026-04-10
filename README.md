@@ -9,4 +9,4 @@
 
 ## Banco de Dados
 O Diagrama Entidade-Relacionamento (DER):
-➡️ [Vizualiar DER](./BD/README.md)
+#[Vizualiar DER](./BD/README.md)
