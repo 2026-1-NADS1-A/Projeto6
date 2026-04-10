@@ -15,7 +15,7 @@ Simulação de Verificação de IP (C#):<br>
 [Visualizar Simulação](colocar link)
 ## Matemática Discreta
 Usando Lógica Proposicional:<br>
-[Visualizar Documento](Regras%20em%20Logica.pdf)
+[Visualizar Tabelas-Verdade](Regras%20em%20Logica.pdf)
 ## Algorítmo e Lógica de Programação
 Aplicação de Estruturas:<br>
 [Visualizar PseudoCódigos](./Algoritmos%20e%20Lógica%20de%20Programação/Logica_Programacao.pdf)
