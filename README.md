@@ -12,7 +12,7 @@ O Diagrama Entidade-Relacionamento (DER):<br>
 [Visualiar DER](./BD/README.md)
 ## Redes de Computadores
 Simulação de Verificação de IP (C#):<br>
-[![Assistir Simulação](https://img.youtube.com/vi/FGGEr79knIg/hqdefault.jpg)](https://youtu.be/FGGEr79knIg)
+[![Assistir Simulação](https://img.youtube.com/vi/FGGEr79knIg/hqdefault.jpg)](https://youtu.be/FGGEr79knIg)<br>
 [Baixar arquivo.zip](./Redes%20e%20Computadores/Redes%20de%20Computadores.zip)
 ## Matemática Discreta
 Usando Lógica Proposicional:<br>
