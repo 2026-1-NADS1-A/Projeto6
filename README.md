@@ -9,7 +9,7 @@
 
 ## Banco de Dados
 O Diagrama Entidade-Relacionamento (DER):<br>
-[Visualizar DER](./documentos/Entrega%201/Fundamentos%20de%20Banco%20de%20Dados/README.md)
+[Visualizar DER](./documentos/Entrega%201/Fundamentos%20de%20Banco%20de%20Dados/der.png)
 ## Redes de Computadores
 Simulação de Verificação de IP (C#):<br>
 [![Assistir Simulação](https://img.youtube.com/vi/FGGEr79knIg/hqdefault.jpg)](https://youtu.be/FGGEr79knIg)<br>
