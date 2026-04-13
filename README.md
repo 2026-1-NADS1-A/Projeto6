@@ -22,4 +22,4 @@ Aplicação de Estruturas:<br>
 [Visualizar PseudoCódigos](./documentos/Entrega%201/Algoritmo%20e%20Lógica%20de%20Programação/Logica_Programacao.pdf)
 ## Modelagemde de Software e Arquitetura de Sistemas
 Template Método Sprint:<br>
-[Visualizar Documento](./documentos/Entrega%201/MODELAGEM%20E%20ARQUITETURA.pdf)
+[Visualizar Documento](./documentos/Entrega%201/Modelagem%20de%20Software%20e%20Arquitetura%20de%20Sistemas/MODELAGEM%20E%20ARQUITETURA.pdf)
