@@ -19,7 +19,7 @@ Usando Lógica Proposicional:<br>
 [Visualizar Tabelas-Verdade](./documentos/Entrega%201/Matemática%20Discreta/Regras%20em%20Logica.pdf)
 ## Algorítmo e Lógica de Programação
 Aplicação de Estruturas:<br>
-[Visualizar PseudoCódigos](./documentos/Entrega%201/Algoritmos%20e%20Lógica%20de%20Programação/Logica_Programacao.pdf)
+[Visualizar PseudoCódigos](./documentos/Entrega%201/Algoritmo%20e%20Lógica%20de%20Programação/Logica_Programacao.pdf)
 ## Modelagemde de Software e Arquitetura de Sistemas
 Template Método Sprint:<br>
 [Visualizar Documento](./documentos/Entrega%201/MODELAGEM%20E%20ARQUITETURA.pdf)
