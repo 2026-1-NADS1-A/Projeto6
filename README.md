@@ -101,7 +101,15 @@ Coloque código do prompt de comnando se for necessário
 ```
 
 ## 📋 Licença/License
-Utilize o link <https://chooser-beta.creativecommons.org/> para fazer uma licença CC BY 4.0.
+<p>
+<a href="https://github.com/2026-1-NADS1-A/Projeto6">Repositório GitHub</a> © 2026 por 
+<a href="https://github.com/yolaurett">
+Anna Paula Alves Silva, Dilly Martins da Silva, Laura Rayssa Souza Araújo, Matheus Gajewski de Melo, Rafaela Carvalho Barcos Mello
+</a> está licenciado sob 
+<a href="https://creativecommons.org/licenses/by/4.0/">
+Creative Commons Atribuição 4.0 Internacional (CC BY 4.0)
+</a>.
+</p>
 
 ## 🎓 Referências
 
