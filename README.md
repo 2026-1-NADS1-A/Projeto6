@@ -21,10 +21,12 @@ Vide tutoriais do PI.
 ## Descrição
 
 <p align="center">
-(./imagens/Cadastro%20Empresa.png) alt="NOME DO JOGO" border="0">
-  Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
+  <img src="./imagens/Cadastro%20Empresa.png" alt="Cadastro Empresa" width="600">
 </p>
 
+<p align="center">
+  <img src="./imagens/Cadastro%20Empresa.png" alt="Cadastro Empresa" width="600">
+</p>
 
 O projeto consiste no desenvolvimento de um aplicativo desktop para gerenciar assinaturas de jogos educacionais para escolas. O sistema permite cadastrar escolas, pacotes e jogos, além de controlar o acesso dos usuários.
 <br><br>
