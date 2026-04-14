@@ -77,9 +77,11 @@ Creative Commons Atribuição 4.0 Internacional (CC BY 4.0)
 
 Aqui estão as referências usadas no projeto.
 
-1. <https://github.com/iuricode/readme-template>
-2. <https://github.com/gabrieldejesus/readme-model>
-3. <https://chooser-beta.creativecommons.org/>
-4. <https://freesound.org/>
-5. <https://www.toptal.com/developers/gitignore>
-6. Músicas por: <a href="https://freesound.org/people/DaveJf/sounds/616544/"> DaveJf </a> e <a href="https://freesound.org/people/DRFX/sounds/338986/"> DRFX </a> ambas com Licença CC 0.
+1. <https://visualstudio.microsoft.com/pt-br/downloads/>
+2. <https://gcompris.net/index-pt_BR.html>
+3. <https://www.escolagames.com.br/>
+4. <https://www.nube.com.br/>
+5. <https://www.programiz.com/csharp-programming/online-compiler/>
+6. <https://learn.microsoft.com/pt-br/dotnet/desktop/winforms/overview/>
+7. <https://www.canva.com/pt_br/>
+8. <https://www.toptal.com/developers/gitignore>
