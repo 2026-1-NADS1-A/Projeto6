@@ -16,7 +16,7 @@ Vide tutoriais do PI.
 
 ## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Anna Paula Alves Silva</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dilly Martins da Silva</a>, <a href="https://www.linkedin.com/in/victorbarq/">Laura Rayssa Souza Araújo</a>, <a href="https://www.linkedin.com/in/victorbarq/">Matheus Gajewski de Melo</a>, <a href="https://www.linkedin.com/in/victorbarq/">Rafaela Carvalho Barcos Mello</a>
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Eduardo Savino</a>
 
 ## Descrição
 
@@ -26,11 +26,10 @@ Vide tutoriais do PI.
 </p>
 
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
+O projeto consiste no desenvolvimento de um aplicativo desktop para gerenciar assinaturas de jogos educacionais para escolas. O sistema permite cadastrar escolas, pacotes e jogos, além de controlar o acesso dos usuários.
 <br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
-<br><br>
-May the force be with you!
+Também realiza a validação por IP autorizado e o controle de acessos mensais, garantindo que o uso dos jogos respeite os limites do pacote contratado. <br><br>
+May the force be with you! <br><br>
 <br><br>
 
 ## 🛠 Estrutura de pastas
