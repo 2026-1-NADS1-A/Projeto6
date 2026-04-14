@@ -28,8 +28,7 @@ Vide tutoriais do PI.
 
 O projeto consiste no desenvolvimento de um aplicativo desktop para gerenciar assinaturas de jogos educacionais para escolas. O sistema permite cadastrar escolas, pacotes e jogos, além de controlar o acesso dos usuários.
 <br><br>
-Também realiza a validação por IP autorizado e o controle de acessos mensais, garantindo que o uso dos jogos respeite os limites do pacote contratado. <br><br>
-May the force be with you! <br><br>
+Também realiza a validação por IP autorizado e o controle de acessos mensais, garantindo que o uso dos jogos respeite os limites do pacote contratado. 
 <br><br>
 
 ## 🛠 Estrutura de pastas
