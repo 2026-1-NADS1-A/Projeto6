@@ -24,9 +24,6 @@ Vide tutoriais do PI.
   <img src="./imagens/Cadastro%20Empresa.png" alt="Cadastro Empresa" width="600">
 </p>
 
-<p align="center">
-  <img src="./imagens/Cadastro%20Empresa.png" alt="Cadastro Empresa" width="600">
-</p>
 
 O projeto consiste no desenvolvimento de um aplicativo desktop para gerenciar assinaturas de jogos educacionais para escolas. O sistema permite cadastrar escolas, pacotes e jogos, além de controlar o acesso dos usuários.
 <br><br>
