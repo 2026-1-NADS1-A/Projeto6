@@ -9,7 +9,7 @@
 
 ## Integrantes: <a href="https://www.linkedin.com/in/anna-paula-alves/">Anna Paula Alves Silva</a>, <a href="https://www.linkedin.com/in/dilly-martins-217176361/">Dilly Martins da Silva</a>, <a href="https://www.linkedin.com/in/laurarayssa/">Laura Rayssa Souza Araújo</a>, <a href="https://www.linkedin.com/in/matheus-gajewski-de-melo-192840393/">Matheus Gajewski de Melo</a>, <a href="https://www.linkedin.com/in/rafaela-carvalho-barcos-mello-8484ba282/">Rafaela Carvalho Barcos Mello</a>
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/eduardo-savino/">Eduardo Savino Gomes</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/eduardo-savino/">Aimar Martins Lopes</a>, <a href="https://www.linkedin.com/in/eduardo-savino/">Daniel Tressoldi da Cunha</a>, <a href="https://www.linkedin.com/in/eduardo-savino/">Eduardo Savino Gomes</a>, <a href="https://www.linkedin.com/in/eduardo-savino/">Lucy Mari Tabuti</a>, <a href="https://www.linkedin.com/in/eduardo-savino/">Renata Muniz Do Nascimento</a>, <a href="https://www.linkedin.com/in/eduardo-savino/">Ronaldo Araujo Pinto</a>,
 
 ## Descrição
 
