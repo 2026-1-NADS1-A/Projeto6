@@ -10,11 +10,11 @@ Vide tutoriais do PI.
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# Projeto Interdisciplinar
+# Projeto Interdisciplinar – Aplicativo Desktop para Gestão de Assinaturas de Jogos Educacionais
 
 ## Grupo 6 
 
-## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Anna Paula Alves Silva</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dilly Martins da Silva</a>, <a href="https://www.linkedin.com/in/victorbarq/">Laura Rayssa Souza Araújo</a>, <a href="https://www.linkedin.com/in/victorbarq/">Matheus Gajewski de Melo</a>, <a href="https://www.linkedin.com/in/victorbarq/">Rafaela Carvalho Barcos Mello</a>
+## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Anna Paula Alves Silva</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dilly Martins da Silva</a>, <a href="https://www.linkedin.com/in/victorbarq/">Laura Rayssa Souza Araújo</a>, <a href="https://www.linkedin.com/in/matheus-gajewski-de-melo-192840393/">Matheus Gajewski de Melo</a>, <a href="https://www.linkedin.com/in/victorbarq/">Rafaela Carvalho Barcos Mello</a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Eduardo Savino</a>
 
