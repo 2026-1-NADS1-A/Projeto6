@@ -1,1 +1,1 @@
-[Visualizar Tabelas-Verdade](Regras%20em%20Logica.pdf)
+[Visualizar Documento](Regras%20em%20Logica.pdf)
