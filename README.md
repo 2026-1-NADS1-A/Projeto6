@@ -14,7 +14,7 @@
 ## Descrição
 
 <p align="center">
-  <img src="./imagens/Cadastro%20Empresa%20Atualizado2.png" alt="Cadastro Empresa" width="600">
+  <img src="./imagens/Cadastro%20Empresa%20Atualizado.png" alt="Cadastro Empresa" width="600">
 </p>
 
 
