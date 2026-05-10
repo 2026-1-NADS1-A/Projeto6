@@ -1,6 +1,6 @@
 # Banco de Dados
 
-## Modelo Físico
+## Modelo Físico das Tabelas
 
 ```sql
 /* Modelo_Fisico_BD: */
