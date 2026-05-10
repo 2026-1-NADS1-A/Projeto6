@@ -3,7 +3,7 @@
 ## Modelo Físico
 
 ```sql
-/* Modelo_Logico_BD: */
+/* Modelo_Fisico_BD: */
 
 CREATE TABLE ESCOLA (
     id_escola NUMBER(3) PRIMARY KEY,
