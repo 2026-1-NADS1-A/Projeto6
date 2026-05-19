@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AbaMenu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="abaProfile.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="abaSair.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="abaTodas.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="CadastroIP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Header.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cadastro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="IPs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Jogos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Monitoramento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pacotes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QuantidadeIP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Relatorios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
